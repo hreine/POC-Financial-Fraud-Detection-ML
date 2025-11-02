@@ -1,5 +1,5 @@
-# Aplicación de Detección de Fraude en Transacciones Financieras Impulsada por IA Explicable usando Aprendizaje Automático y Redes Neuronales Profundas
-######################################
+# Aplicación de Detección de Fraude en Transacciones Financieras Impulsada por IA Explicable usando Aprendizaje Automático
+
 ## Introducción
 
 <p align = 'justify' > La Inteligencia Artificial (IA) ha entrado en la corriente principal de los negocios abriendo nuevas oportunidades para resolver los problemas empresariales más complejos. En la pandemia de Covid-19, el uso de los pagos en línea se ha disparado, y el mundo está haciendo un cambio inexorable hacia la transformación digital mediante el uso de más tarjetas y aplicaciones móviles en lugar de dinero en efectivo. </p>
