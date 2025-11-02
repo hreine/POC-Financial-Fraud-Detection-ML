@@ -1,16 +1,40 @@
-# Aplicación de Detección de Fraude en Transacciones Financieras Impulsada por IA Explicable usando Aprendizaje Automático
+# POC de Detección de Fraude en Transacciones Financieras Impulsada por IA Explicable usando Aprendizaje Automático
 
 ## Introducción
 
-<p align = 'justify' > La Inteligencia Artificial (IA) ha entrado en la corriente principal de los negocios abriendo nuevas oportunidades para resolver los problemas empresariales más complejos. En la pandemia de Covid-19, el uso de los pagos en línea se ha disparado, y el mundo está haciendo un cambio inexorable hacia la transformación digital mediante el uso de más tarjetas y aplicaciones móviles en lugar de dinero en efectivo. </p>
 
-<p align = 'justify' > Según la investigación de Statista, Visa es el líder del mercado entre los procesadores de pagos digitales en el mundo con más de 10 billones de dólares en transacciones, seguido por Apple Pay y Alipay. En el comercio electrónico del Reino Unido, Visa y Mastercard son las opciones de pago más utilizadas. Estas opciones de pago están disponibles en el 98% de los 500 principales minoristas en línea en 2020. </p>
+<p align = 'justify' >La Inteligencia Artificial (IA) ha trascendido la corriente principal de los negocios, convirtiéndose en el motor central para resolver los desafíos empresariales más complejos y de alto volumen. A medida que el mundo avanzaba en la transformación digital, el uso de los pagos en línea, las tarjetas, las billeteras digitales y las aplicaciones móviles se ha consolidado, reduciendo significativamente la dependencia del dinero en efectivo. </p>
 
-## Impacto de la IA en las Finanzas y la Banca
+<p align = 'justify' >La IA ya no es solo una herramienta de soporte; es esencial para la prevención de fraude en tiempo real, la personalización de la experiencia del cliente y la optimización de las tasas de aprobación de transacciones. </p>
 
-<p align = 'justify' >La industria de las finanzas y la banca se ha beneficiado de las tecnologías digitales como la IA, creando una nueva disciplina de FinTech. Se proyecta que la IA ahorrará a la industria bancaria aproximadamente 1 billón de dólares para 2030 y 447 mil millones de dólares para 2023. </p>
+<p align = 'justify' >Según las tendencias de mercado hasta 2025, Visa y Mastercard siguen siendo los líderes indiscutibles en el procesamiento de transacciones a nivel global, facilitando trillones de dólares en pagos y manteniendo una presencia casi universal en el comercio electrónico. Sin embargo, la competencia se ha intensificado con el crecimiento exponencial de: </p>
 
-<p align = 'justify' >La IA se utiliza en FinTech para crear soluciones a los problemas de los sectores financiero y bancario tradicionales, como la Detección de Fraude, la Gestión de Riesgos, la Gestión de Inversiones, el Análisis Predictivo y la Lucha contra el Blanqueo de Dinero. </p>
+<p align = 'justify' >Pagos Instantáneos (Real-Time Payments): Sistemas impulsados por IA que validan y ejecutan transacciones en segundos, como el sistema Pix en Brasil o las iniciativas de pagos in-app y peer-to-peer (P2P). </p>
+
+<p align = 'justify' >Billeteras Móviles: Plataformas como Apple Pay, Google Pay y Alipay/WeChat Pay (particularmente dominantes en Asia), que utilizan la IA para mejorar la seguridad a través de la biometría y el análisis de comportamiento. </p>
+
+<p align = 'justify' >En regiones como el Reino Unido, Visa y Mastercard siguen siendo las opciones de pago fundamentales, disponibles en prácticamente el 100% de los principales minoristas y actuando como la infraestructura base sobre la cual se construyen las soluciones de pago más modernas. </p>
+
+
+
+## 🏦 Impacto de la IA en las Finanzas y la Banca
+
+La industria de las Finanzas y la Banca ha evolucionado de manera acelerada gracias a las tecnologías digitales, con la Inteligencia Artificial (IA) como su principal catalizador, dando forma a la disciplina de FinTech (Tecnología Financiera).
+
+El impacto económico de la IA ya no es una mera proyección futura; es una realidad operativa. Si bien las estimaciones varían, la IA ha generado ahorros y eficiencias multimillonarias, superando ya las proyecciones iniciales. Se estima que el ahorro acumulado para la industria bancaria global debido a la implementación de la IA continuará su ascenso, con proyecciones a largo plazo que superan el billón de dólares para el final de la década, impulsado por la automatización de procesos y la reducción de pérdidas por fraude.
+
+La IA es fundamental para crear soluciones avanzadas a los problemas tradicionales de los sectores financiero y bancario, con aplicaciones clave que se han vuelto estándar en la industria:
+
+Detección de Fraude en Tiempo Real: Utilizando Machine Learning para analizar patrones de comportamiento de transacciones y prevenir pérdidas en milisegundos.
+
+Cumplimiento Normativo (RegTech): Aplicación de IA para la Lucha contra el Blanqueo de Dinero (AML) y el conocimiento del cliente (KYC), automatizando el monitoreo de transacciones sospechosas.
+
+Gestión de Riesgos: Análisis predictivo avanzado para el cálculo de la solvencia crediticia y la evaluación de riesgos de mercado.
+
+Gestión de Inversiones (Robo-Advisors): Plataformas impulsadas por algoritmos para la creación automatizada de carteras, la reasignación de activos y la personalización de estrategias financieras.
+
+Análisis Predictivo: Optimización de las operaciones, personalización de productos financieros y predicción de la deserción de clientes (churn).
+
 
 <p align="center" width="100%">
 <img alt="GIF" src="https://user-images.githubusercontent.com/31254745/191377492-9b827999-aba9-4dc7-8adf-fdb1b6c8fb19.png">
